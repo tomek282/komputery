@@ -1,0 +1,2 @@
+# komputery
+Historia komputerów
